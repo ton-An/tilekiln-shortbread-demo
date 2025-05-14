@@ -156,7 +156,7 @@
 			"filter": [ "all", [ "in", "kind", "forest" ] ],
 			"paint": {
 				"fill-color": "#66aa44",
-				"fill-opacity": { "stops": [ [ 7, 0 ], [ 8, 0.1 ] ] }
+				"fill-opacity": 0.1
 			}
 		},
 		{
